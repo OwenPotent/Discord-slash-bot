@@ -1,5 +1,5 @@
 # discord-slash-bot
- A discord bot that utilizes the slash commands from Discord. Its very simple and you can simply add more commands as you wish! Just use the template [here](commands/command-module-example.js)! I would like to thank @AlexanderFlores for making the `WOKcommands` dependencies!
+ A discord bot that utilizes the slash commands from Discord. Its very simple and you can simply add more commands as you wish! Just use the template [here](commands/command-module-example.js)! I would like to thank @AlexzanderFlores for making the `WOKcommands` dependency!
 
 ## Dependencies and Others
 - [discord.js v12.5.1](https://discord.js.org/)
